@@ -1,0 +1,16 @@
+div .display {
+  background-color: aqua;
+  color: darkslategray;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 5px;
+  min-width: 100px;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.maxValue {
+  font-size: 50px;
+  color: crimson;
+}
+
+
